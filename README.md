@@ -80,3 +80,11 @@ crypto_system/
 ├── data/
 │   └── matrix_200x200.txt    # Default matrix file
 └── build/                    # Build directory (generated)
+```
+
+## 🛠 Installation
+
+```bash
+git clone https://github.com/yourusername/RouteCipher.git
+cd RouteCipher
+pip install -r requirements.txt
