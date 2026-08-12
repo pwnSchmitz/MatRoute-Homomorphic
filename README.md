@@ -87,4 +87,3 @@ crypto_system/
 ```bash
 git clone https://github.com/yourusername/RouteCipher.git
 cd RouteCipher
-pip install -r requirements.txt
